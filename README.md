@@ -1,4 +1,4 @@
-# BBC-Proms-Calendar
+# BBC Proms Calendar
 
 The BBC Proms has so many events that it's hard to keep track of them all! Why not create a calendar to add to your phone, computer, or internet calendar.
 
